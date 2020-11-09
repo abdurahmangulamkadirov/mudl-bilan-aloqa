@@ -1,6 +1,6 @@
 # mudl-bilan-aloqa
 Ushbu repoda @moodlefbtuit_bot ning sayt bilan ishlashdagi qismi joylangan
-
+Kodni chiroyliroq formatga keltirishga vaqtim bo'lmadi, uzr :/
 moodle.py v0.3
 
 klass Moodle, metodlar:
